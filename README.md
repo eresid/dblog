@@ -23,12 +23,13 @@
 
 | Компонент        | Версія  |
 |------------------|---------|
-| Ubuntu           | 16.04.1 |
-| dmd              | 2.071.1 |
-| dub              | 1.0.0   |
-| dfmt             | 0.4.5   |
-| vibe.d           | 0.7.29  |
-| redis-server     | 3.0.6   |
+| [Ubuntu]         | 16.04.1 |
+| [dmd]            | 2.071.1 |
+| [dub]            | 1.0.0   |
+| [dfmt]           | 0.4.5   |
+| [vibe.d]         | 0.7.29  |
+| [Eclipse Neon]   | 4.6.0   |
+| [redis-server]   | 3.0.6   |
 
 ### Ліцензія
 
@@ -37,3 +38,10 @@
 
 [MIT]: https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D1%86%D0%B5%D0%BD%D0%B7%D1%96%D1%8F_MIT
 [CC BY]: https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D1%86%D0%B5%D0%BD%D0%B7%D1%96%D1%97_Creative_Commons#.D0.86.D0.B7_.D0.B7.D0.B0.D0.B7.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.BD.D1.8F.D0.BC_.D0.B0.D0.B2.D1.82.D0.BE.D1.80.D1.81.D1.82.D0.B2.D0.B0
+[Ubuntu]: http://www.ubuntu.com/
+[dmd]: https://dlang.org/
+[dub]: https://github.com/dlang/dub
+[dfmt]: https://github.com/Hackerpilot/dfmt
+[vibe.d]: http://vibed.org/
+[Eclipse Neon]: https://eclipse.org/
+[redis-server]: http://redis.io/
